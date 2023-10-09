@@ -1,2 +1,4 @@
 # Bookish_web
-It provides the platform of reading books and other features. 
+It provides a platform for reading books and other features. 
+Team Member: Sushil Bhoybar <br/>  Vishal Bansod <br/>  Himendra Anasuri
+            
